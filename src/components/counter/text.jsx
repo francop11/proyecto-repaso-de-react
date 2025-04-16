@@ -1,3 +1,6 @@
+
+
+
 import { useState } from "react"
 //estos hook son funciones de react
 import Text2 from "./text2"
